@@ -4,3 +4,8 @@
   print c;
   idk how to write c code lmao
 ```
+## Time for some markdown baby!!!
+- [ ] bs is as bs does
+- [ ] aint nobody getting fooled boy
+- [ ] just adding in random shit
+- [x] schizo?
